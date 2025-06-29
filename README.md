@@ -25,7 +25,7 @@ A beginner-level project to set up and configure OSSEC as a host-based intrusion
 
 ## 📷 Screenshots
 
-> ![OSSEC Running](./screenshots)
+> [OSSEC Running](./screenshots)
 
 ---
 
