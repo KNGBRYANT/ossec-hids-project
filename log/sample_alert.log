@@ -1,0 +1,11 @@
+** Alert 1697068395.131: - ossec,syscheck
+2025 Jun 29 15:40:52 (kali) 192.168.1.10->syscheck
+Rule: 550 (level 7) -> 'Integrity checksum changed.'
+File '/etc/passwd' checksum changed.
+Old md5sum was: 0b3c4bde12345aa1cb...
+New md5sum is : 1f4d56acff23bcd7de...
+
+** Alert 1697068412.200: - ossec,rootcheck
+2025 Jun 29 15:42:12 (kali) 192.168.1.10->rootcheck
+Rule: 510 (level 5) -> 'Rootkit detection triggered.'
+Found hidden file: '/usr/bin/.malicious_script'
